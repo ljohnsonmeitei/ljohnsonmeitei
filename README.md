@@ -5,7 +5,7 @@ In short about me:
 
 > Teach lead at @Jio
 > Alumni of NIT Srinagar | 2014 passout
-> Automation Evangalist | Devops | Chatbot
+> Automation Evangalist | Devops | Chatbot 
 
 
 Tech stack:
