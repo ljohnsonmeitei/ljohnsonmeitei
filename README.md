@@ -7,6 +7,7 @@ In short about me:
 > Alumni of NIT Srinagar | 2014 passout
 > Automation Evangalist | Devops | Chatbot
 
+
 Tech stack:
 
 > Services: python ms, RestAPI, SocketIO
