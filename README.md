@@ -3,18 +3,18 @@
 
 In short about me:
 
-Teach lead at @Jio
-Alumni of NIT Srinagar | 2014 passout
-Automation Evangalist | Devops | Chatbot
+> Teach lead at @Jio
+> Alumni of NIT Srinagar | 2014 passout
+> Automation Evangalist | Devops | Chatbot
 
 Tech stack:
 
-Services: python ms, RestAPI, SocketIO
-Chatbot: RASA, chatterbot
-MS Tools: Sharepoint, PowerApps, PowerBI
-RPA: Uipath
-Deploy: Azure, Docker, Ansible, Stackstorm
-Databases: MySQL, Mongo
+> Services: python ms, RestAPI, SocketIO
+> Chatbot : RASA, chatterbot
+> MS Tools: Sharepoint, PowerApps, PowerBI
+> RPA     : Uipath
+> Deploy  : Azure, Docker, Ansible, Stackstorm
+> Databases: MySQL, Mongo
 ...and others
 
 <!--
