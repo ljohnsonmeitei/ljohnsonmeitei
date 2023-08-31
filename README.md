@@ -3,7 +3,7 @@
 
 Professioanlly:
 
-🔭 Teach lead at @Jio
+🔭 Teach lead
 
 ⚡ Alumni of NIT Srinagar | 2014 passout
 
