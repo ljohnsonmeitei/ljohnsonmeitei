@@ -7,7 +7,7 @@ Professioanlly:
 
 ⚡ Alumni of NIT Srinagar | 2014 passout
 
-🌱 Automation Evangalist | Devops | Chatbot
+🌱 Automation Evangalist | Devops | Chatbot | Fullstack
 
 
 Tech stack:
@@ -23,6 +23,8 @@ Tech stack:
 👯 Deploy  : Azure, Docker, Ansible, Stackstorm
 
 👯 Databases: MySQL, Mongo
+
+👯 Fullstack: MERN
 
 ...and others
 
